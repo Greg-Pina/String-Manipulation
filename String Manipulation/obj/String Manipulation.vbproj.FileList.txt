@@ -1,0 +1,10 @@
+bin\Debug\String Manipulation.exe
+bin\Debug\String Manipulation.pdb
+bin\Debug\String Manipulation.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\String_Manipulation.frmStrings.resources
+obj\Debug\String_Manipulation.Resources.resources
+obj\Debug\String Manipulation.vbproj.GenerateResource.Cache
+obj\Debug\String Manipulation.exe
+obj\Debug\String Manipulation.xml
+obj\Debug\String Manipulation.pdb

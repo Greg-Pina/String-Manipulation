@@ -1,0 +1,14 @@
+C:\Users\raymond.harmon\Desktop\Zips\String Manipulation\String Manipulation\obj\Debug\String Manipulation.exe
+C:\Users\raymond.harmon\Desktop\Zips\String Manipulation\String Manipulation\obj\Debug\String Manipulation.xml
+C:\Users\raymond.harmon\Desktop\Zips\String Manipulation\String Manipulation\obj\Debug\String Manipulation.pdb
+A:\Cincinnati State\.NET programming\week twelve\String Manipulation\String Manipulation\bin\Debug\String Manipulation.exe
+A:\Cincinnati State\.NET programming\week twelve\String Manipulation\String Manipulation\bin\Debug\String Manipulation.pdb
+A:\Cincinnati State\.NET programming\week twelve\String Manipulation\String Manipulation\bin\Debug\String Manipulation.xml
+A:\Cincinnati State\.NET programming\week twelve\String Manipulation\String Manipulation\obj\Debug\String Manipulation.vbprojResolveAssemblyReference.cache
+A:\Cincinnati State\.NET programming\week twelve\String Manipulation\String Manipulation\obj\Debug\String_Manipulation.frmStrings.resources
+A:\Cincinnati State\.NET programming\week twelve\String Manipulation\String Manipulation\obj\Debug\String_Manipulation.Resources.resources
+A:\Cincinnati State\.NET programming\week twelve\String Manipulation\String Manipulation\obj\Debug\String Manipulation.vbproj.GenerateResource.Cache
+A:\Cincinnati State\.NET programming\week twelve\String Manipulation\String Manipulation\obj\Debug\String Manipulation.vbproj.CoreCompileInputs.cache
+A:\Cincinnati State\.NET programming\week twelve\String Manipulation\String Manipulation\obj\Debug\String Manipulation.exe
+A:\Cincinnati State\.NET programming\week twelve\String Manipulation\String Manipulation\obj\Debug\String Manipulation.xml
+A:\Cincinnati State\.NET programming\week twelve\String Manipulation\String Manipulation\obj\Debug\String Manipulation.pdb
